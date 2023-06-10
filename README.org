@@ -21,7 +21,7 @@ OrderSense is an inventory order management system built on ASP.NET Core MVC, ut
 
 To run OrderSense locally, follow these steps:
 
-    Clone the repository: `git clone https://github.com/4mishra/ordersense.git`
+    Clone the repository: ~git clone https://github.com/4mishra/ordersense.git~
     Navigate to the project directory: `cd ordersense`
     Restore NuGet packages: `dotnet restore`
     Update the database: `dotnet ef database update`
