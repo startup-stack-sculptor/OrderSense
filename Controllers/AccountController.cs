@@ -10,9 +10,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using coderush.Models;
-using coderush.Models.AccountViewModels;
-using coderush.Services;
+using OrderSense.Models;
+using OrderSense.Models.AccountViewModels;
+using OrderSense.Services;
 
 namespace OrderSense.Controllers
 {
