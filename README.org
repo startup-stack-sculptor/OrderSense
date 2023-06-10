@@ -4,28 +4,28 @@ OrderSense is an inventory order management system built on ASP.NET Core MVC, ut
 
 ** Features
 
-    ***ASP.NET Core MVC: The application is built using the ASP.NET Core MVC framework, providing a robust and scalable foundation for web development.
+    *** ASP.NET Core MVC: The application is built using the ASP.NET Core MVC framework, providing a robust and scalable foundation for web development.
 
-    ***Entity Framework (EF) with Code First: OrderSense utilizes Entity Framework's Code First approach, allowing easy database management and seamless integration with the application.
+    *** Entity Framework (EF) with Code First: OrderSense utilizes Entity Framework's Code First approach, allowing easy database management and seamless integration with the application.
 
-    ***Beautiful Bootstrap: OrderSense is designed with Beautiful Bootstrap, ensuring a visually appealing and responsive user interface.
+    *** Beautiful Bootstrap: OrderSense is designed with Beautiful Bootstrap, ensuring a visually appealing and responsive user interface.
 
-    ***Web API + JQuery: The application incorporates Web API and JQuery for seamless communication between the client and server, enabling interactive and dynamic user experiences.
+    *** Web API + JQuery: The application incorporates Web API and JQuery for seamless communication between the client and server, enabling interactive and dynamic user experiences.
 
-    ***Change Password: OrderSense provides a secure way for users to change their passwords, enhancing account security.
+    *** Change Password: OrderSense provides a secure way for users to change their passwords, enhancing account security.
 
-    ***Users, Roles, and Memberships: The application supports user management, roles, and memberships, enabling proper access control and authorization for different user types.
+    *** Users, Roles, and Memberships: The application supports user management, roles, and memberships, enabling proper access control and authorization for different user types.
 
 
 ** Getting Started
 
 To run OrderSense locally, follow these steps:
 
-    Clone the repository: git clone https://github.com/4mishra/ordersense.git
-    Navigate to the project directory: cd ordersense
-    Restore NuGet packages: dotnet restore
-    Update the database: dotnet ef database update
-    Build and run the application: dotnet run
+    Clone the repository: `git clone https://github.com/4mishra/ordersense.git`
+    Navigate to the project directory: `cd ordersense`
+    Restore NuGet packages: `dotnet restore`
+    Update the database: `dotnet ef database update`
+    Build and run the application: `dotnet run`
 
 Make sure you have the necessary dependencies installed, including the .NET Core SDK and SQL Server.
 
@@ -40,9 +40,9 @@ OrderSense is open source and released under the MIT License. Feel free to use, 
 
 We would like to express our gratitude to the open source community for their valuable contributions and the tools and libraries used in building OrderSense.
 
-    ASP.NET Core
-    Entity Framework
-    Bootstrap
-    SendGrid
+    - ASP.NET Core
+    - Entity Framework
+    - Bootstrap
+    - SendGrid
 
 Thank you for using OrderSense! We hope it helps streamline your inventory order management process and enhances your operational efficiency.
