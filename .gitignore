@@ -7,7 +7,6 @@ Screenshots/
 *.HotReload.*
 
 # Ignore Visual Studio project files (generated locally)
-*.csproj
 *.sln
 
 # Ignore thumbnails created by Windows
